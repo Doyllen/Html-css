@@ -1,0 +1,33 @@
+.main {
+  text-align: center;
+
+  
+}
+.image {
+  display: block;
+  width: 40	0px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.input {
+  display: block;
+  width: 400px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+}
+.btn {
+  display: inline;
+  margin-top: 20px;
+  text-align: center
+ 
+
+
+
+}
